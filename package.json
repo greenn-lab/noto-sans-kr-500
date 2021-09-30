@@ -1,0 +1,21 @@
+{
+  "name": "noto-sans-kr-500",
+  "version": "0.1.0",
+  "description": "A noto-sans-kr 500 in google fonts.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenn-lab/noto-sans-kr-500.git"
+  },
+  "keywords": [
+    "noto-sans-kr",
+    "web",
+    "font",
+    "korean"
+  ],
+  "author": "greenn",
+  "license": "SEE LICENSE IN https://fonts.google.com/noto/specimen/Noto+Sans+KR/about",
+  "bugs": {
+    "url": "https://github.com/greenn-lab/noto-sans-kr-500/issues"
+  },
+  "homepage": "https://github.com/greenn-lab/noto-sans-kr-500#readme"
+}
